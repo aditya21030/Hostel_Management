@@ -16,12 +16,12 @@ A terminal-based Hostel Management System built using **Python** and **MySQL**. 
 
 ## 🗂️ Project Structure
 
-hostel_management/
-├── auth.py → Admin login
-├── db.py → MySQL database connector
-├── main.py → Main menu and app controller
-├── room.py → Create/view rooms
-├── student.py → Add students to rooms
-└── setup.sql → MySQL DB schema script
+Hostel_management :-
+ auth.py → Admin login
+ db.py → MySQL database connector
+ main.py → Main menu and app controller
+ room.py → Create/view rooms
+ student.py → Add students to rooms
+ setup.sql → MySQL DB schema script
 
 
