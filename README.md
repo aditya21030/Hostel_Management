@@ -7,7 +7,7 @@ A terminal-based Hostel Management System built using **Python** and **MySQL**. 
 ## 🚀 Features
 
 - 🔒 Admin login authentication
-- 🧍 Add new students with auto-generated student ID
+- 🧍 Add new students 
 - 🛏️ Create and manage hostel rooms (with capacity tracking)
 - 📋 View room status and occupancy
 - 💾 MySQL as backend database
